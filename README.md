@@ -18,13 +18,16 @@ X is your username.
 Also, I included a customized mpv configuration file.
 I enabled sharpness and GPU processing for enhanced video playback.
 
-Finally, my favorite free apps:
+Finally, my top 10 free apps:
   * Btop https://github.com/aristocratos/btop
   * Celluloid https://celluloid-player.github.io
-  * OnlyOffice https://www.onlyoffice.com
+  * LibreOffice https://www.libreoffice.org
+  * LMStudio https://lmstudio.ai
+  * OBS https://obsproject.com/
   * Qalculate https://qalculate.github.io
   * Shortwave https://github.com/maunalinux/shortwave
   * Strawberry https://www.strawberrymusicplayer.org
+  * Wikit https://github.com/KorySchneider/wikit
   * VScodium https://github.com/VSCodium/vscodium
   
 
