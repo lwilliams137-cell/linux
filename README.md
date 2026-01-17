@@ -10,7 +10,7 @@ Next, I included left & right True Stereo convolver files.
 It creates a 3D soundstage for iem.
 You can download the entire m7 collection from https://samplicity.com/bricasti-m7-impulse-response-files.
 Convolver files, or impulse response (IR) files, are used to simulate the acoustics of real spaces or effects by blending audio signals with recorded echoes from those environments. They allow for creative sound manipulation, such as adding reverb or unique filtering effects to audio tracks.
-As all effects, lower the input gain to -3.0 dB to protect your electronics from power spikes.
+As with all effects, lower the input gain to at least -3.0 dB to protect your electronics from power spikes.
 
 Then, I forced Pipewire to use higher audio bitrates.
 While Pipewire internally supports up to 64-bit 768 kHz audio depth, it sometimes downscales to 16 bit 44 kHz. 
@@ -19,7 +19,7 @@ X is your username.
 Run "systemctl --user restart pipewire pipewire-pulse wireplumber" to reload Pipewire services.
 
 Also, I included a customized mpv configuration file.
-I enabled sharpness and Nvidia GPU processing for enhanced 4K video playback.
+I enabled sharpness and Nvidia GPU hardware acceleration for enhanced 4K video playback.
 
 Finally, my top 10 free apps:
   * Btop https://github.com/aristocratos/btop
