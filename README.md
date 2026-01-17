@@ -2,7 +2,7 @@
 Config files for workstation utility
 
 I included a parametric equalizer for adjustable tone.
-I increased the 3.4 kHz gain for clear vocals.
+I increased the 3.4 kHz gain for clearer vocals.
 You can download a customized EQ per your iems/headphones from https://autoeq.app.
 It is also a good idea to add a Limiter to combat treble hissing.
 
