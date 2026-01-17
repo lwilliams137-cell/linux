@@ -12,8 +12,10 @@ You can download the entire m7 collection from https://samplicity.com/bricasti-m
 As all effects, lower the input gain to -3.0 dB to protect your electronics from power spikes.
 
 Then, I forced Pipewire to use higher audio bitrates.
-Copy the ClockRates files to ~/home/X/.config/pipewire/pipewire.conf.d/.
+Copy the ClockRates files to "~/home/X/.config/pipewire/pipewire.conf.d/".
 X is your username.
+Run "systemctl --user restart pipewire pipewire-pulse wireplumber" to reload Pipewire services.
+
 
 Also, I included a customized mpv configuration file.
 I enabled sharpness and GPU processing for enhanced video playback.
