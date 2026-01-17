@@ -20,8 +20,9 @@ I enabled sharpness and GPU processing for enhanced video playback.
 
 Finally, my favorite free apps:
   * Btop https://github.com/aristocratos/btop
-  * Celluloid https://celluloid-player.github.io/
-  * Qalculate https://qalculate.github.io/
+  * Celluloid https://celluloid-player.github.io
+  * OnlyOffice https://www.onlyoffice.com
+  * Qalculate https://qalculate.github.io
   * Shortwave https://github.com/maunalinux/shortwave
   * Strawberry https://www.strawberrymusicplayer.org
   * VScodium https://github.com/VSCodium/vscodium
